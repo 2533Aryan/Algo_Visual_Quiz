@@ -5,7 +5,7 @@
 
 #illusion {
     position: relative;
-    display: flex;
+    display: flex;  /* horizontal items*/
   }
   
 /* add more styling here */
@@ -13,6 +13,9 @@
 .outer-box {
     width: 300px;
     height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   
   #left-box {
