@@ -3,23 +3,16 @@
     margin: auto;
 }
 
-/* #illusion {
-    position: relative;
-} */
-
 #illusion {
+    position: relative;
     display: flex;
-    flex-direction: row;
-    /* justify-content: space-between !important; */
   }
-  
   
 /* add more styling here */
 
 .outer-box {
     width: 300px;
     height: 300px;
-    display: inline-block;
   }
   
   #left-box {
