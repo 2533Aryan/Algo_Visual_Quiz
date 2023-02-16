@@ -3,10 +3,17 @@
     margin: auto;
 }
 
-#illusion {
+/* #illusion {
     position: relative;
-}
+} */
 
+#illusion {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between !important; */
+  }
+  
+  
 /* add more styling here */
 
 .outer-box {
